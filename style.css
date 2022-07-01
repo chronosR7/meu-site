@@ -1,0 +1,123 @@
+body {
+	font-family: Helvetica, 'Montserrat', sans-serif;
+}
+
+header {
+	background: #ffffff;
+	padding: 29px 16px;
+}
+
+.primeira-lista {
+    font-family: Helvetica, 'Montserrat', sans-serif;
+	position: absolute;
+    padding-left: 25px;
+	top: 100px;
+	left: 310px;
+}
+
+.primeira-lista li {
+    font-family: Helvetica, 'Montserrat', sans-serif;
+	display: inline-block;
+	margin: 0 0 0 7px;
+}
+
+.primeira-lista a {
+	color: #000000;
+	font-size: 16px;
+}
+
+.primeira-lista a:hover {
+    text-decoration: underline;
+    color: orangered;
+    font-size: 18px;
+}
+
+.banner {
+    position: absolute;
+    width: 600px;
+    height: 650x;
+    right: 150px;
+    border-radius: 2% 8%;
+}
+
+.titulo-secundario {
+    font-family: Helvetica, 'Montserrat', sans-serif;
+	text-align: left;
+	font-size: 1.5em;
+	margin: 20px 50px 2em;
+	clear: left;
+    padding-left: 50px;
+}
+
+.texto-lateral {
+    font-family: Helvetica, sans-serif;
+    font-size: 19px;
+    line-height: 35px;
+    margin: 50px;
+    width: 320px;
+    padding-left: 50px;
+}
+
+.texto-final {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 50px 50px 2em;
+    width: 280px;
+    padding-left: 50px;
+}
+
+.redes-sociais {
+    font-family: Helvetica, sans-serif;
+    margin: 25px 50px 2em;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    display: inline-block;
+}
+
+.redes-sociais li {
+    font-family: Helvetica, 'Montserrat', sans-serif;
+	display: inline;
+	margin: 0 0 0 7px;
+    font-size: 18px;
+    color: orangered;
+}
+
+.redes-sociais li:hover {
+    color: rgb(102, 27, 0);
+}
+
+
+span strong{
+    font-size: 25px;
+    font-style: normal;
+ }
+
+.fundo-rodape {
+    width: 100%;
+    height: 150px;
+}
+
+
+ ul {
+    text-align: center;
+ }
+
+footer.fundo-rodape{
+    background: #c4c4c4;
+}
+
+
+.imagem-rodape {
+    display: inline-block;
+    margin: 55px 10px 0 20px;
+    width: 22px;
+    height: 22px;
+}
+
+.autor {
+    font-family: Helvetica, 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 15px;
+}
